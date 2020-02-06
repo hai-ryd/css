@@ -24,6 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
+/* This Code From https://github.com/mrparidcjr/css */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -46,5 +47,3 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-/* This Code From https://github.com/mrparidcjr/css */
